@@ -1,13 +1,13 @@
 # Alina Klykova
 
-## Junior software engineer 
+### Junior software engineer 
 
 ---
 
 **Contact information:**
 
-Phone: +48 792 315687
-E-mail: alinagotovceva@mail.ru
+- Phone: +48 792 315687
+- E-mail: alinagotovceva@mail.ru
 
 ---
 
@@ -17,8 +17,21 @@ Hi! My name is Alina. I am just a beginner in the world of software engineering,
 
 ---
 
+ **Education:**
+
+ - Moscow Tchaikovsky Conservatory
+  
+  ---
+
+**Code example:**
+
+function multiply(a, b){
+ return a * b
+} 
+
+
 **Languages:**
 
-Russian - native speaker
-English - B1
-Polish - A2
+- Russian - native speaker
+- English - B1
+- Polish - A2
