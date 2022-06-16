@@ -85,6 +85,9 @@ html {
 .contact-list {
     list-style: none;
 }
+.icon-rs {
+    width: 100px;
+}
 
 
 
@@ -116,6 +119,7 @@ body {
     text-transform: uppercase;
     letter-spacing: 5px;
     color: #829985;
+    margin-bottom: 16px;
 }
 
 .section-subtitle {
@@ -131,13 +135,14 @@ body {
 .main-section {
     display: flex;
     align-items: center;
-    /* gap: 32px; */
-    justify-content: space-between;
+    gap: 228px;
+    justify-content: center;
     margin: 50px auto;
 }
 .main-section img {
     border-radius: 50%;
 }
+
 
 .sections {
     display: flex;
@@ -152,4 +157,15 @@ body {
 } */
 .contact-list a {
     color: #4d2323;
+}
+.footer-container {
+   display: flex;
+   justify-content: space-between;
+   background-color: #829985;
+}
+
+footer{
+    background-color: #829985;
+    margin-top: 100px;
+    line-height: 50px;
 }
